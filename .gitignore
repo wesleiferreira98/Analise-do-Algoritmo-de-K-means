@@ -137,6 +137,10 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+/UCI_HAR_Dataset
+*.txt
+*.zip
+
 # mkdocs documentation
 /site
 
